@@ -10,6 +10,6 @@
 __Operating block ***(datapath)***__: 
 Consists of processing logic and a set of registers that perform the processing
 
-![RT Level](image.png)
+![RT Level](images/image.png)
 
 ## ***Control Unit***
