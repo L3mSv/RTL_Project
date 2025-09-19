@@ -6,7 +6,7 @@ entity Datapath is
 		DataIn: in std_logic_vector(7 downto 0);
 		reset, clock : in std_logic;
 		C : in std_logic_vector(27 downto 0);
-		DataOut,R0,R1,R2,R3,R4,R5,R6,R7: out std_logic_vector(7 downto 0);
+		DataOut, R0, R1, R2, R3, R4, R5, R6, R7: out std_logic_vector(7 downto 0);
 		N,Z,Ov,Count: out std_logic
 	);
 end Datapath;
@@ -278,14 +278,14 @@ architecture arq of Datapath is
 	DataOut <= opS;
 	
   -- Exit Door ()
-	--R_0 <= Q0;
-	--R_1 <= Q1;
-	--R_2 <= Q2;
-	--R_3 <= Q3;
-	--R_4 <= Q4;
-	--R_5 <= Q5;
-	--R_6 <= Q6;
-	--R_7 <= Q7;
+	R0 <= Q0;
+	R1 <= Q1;
+	R2 <= Q2;
+	R3 <= Q3;
+	R4 <= Q4;
+	R5 <= Q5;
+	R6 <= Q6;
+	R7 <= Q7;
 	
 
 end arq;

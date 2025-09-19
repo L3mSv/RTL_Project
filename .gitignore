@@ -1,9 +1,9 @@
 # Diretórios ignorados
-/db
-/incremental_db
-/output_files
-/simulation
-/work
+db/
+incremental_db/
+output_files/
+simulation/
+work/
 
 # Arquivos ignorados
 *.qws
