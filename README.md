@@ -7,9 +7,15 @@
 
 ## ***Datapath***
 
-__Operating block ***(datapath)***__: 
+__Control block ***(datapath)***__: 
 Consists of processing logic and a set of registers that perform the processing
 
 ![RT Level](images/image.png)
 
 ## ***Control Unit***
+
+__Operating block ***(Control Unit)***__: 
+It is built with a logic that determines the
+sequence in which data processing is performed in the operating block, through a finite state machine (FSM).
+
+![FSM (Control Unit)](images/Fsm.jpg)

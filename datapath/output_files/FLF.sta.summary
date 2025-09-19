@@ -1,0 +1,53 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clock'
+Slack : -4.059
+TNS   : -65.947
+
+Type  : Slow Model Setup 'FSM:Control_Unit|estado_atual.S3'
+Slack : -1.042
+TNS   : -1.902
+
+Type  : Slow Model Hold 'clock'
+Slack : -1.565
+TNS   : -18.713
+
+Type  : Slow Model Hold 'FSM:Control_Unit|estado_atual.S3'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clock'
+Slack : -1.380
+TNS   : -29.380
+
+Type  : Slow Model Minimum Pulse Width 'FSM:Control_Unit|estado_atual.S3'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Setup 'clock'
+Slack : -1.226
+TNS   : -15.871
+
+Type  : Fast Model Setup 'FSM:Control_Unit|estado_atual.S3'
+Slack : -0.040
+TNS   : -0.040
+
+Type  : Fast Model Hold 'clock'
+Slack : -1.164
+TNS   : -19.167
+
+Type  : Fast Model Hold 'FSM:Control_Unit|estado_atual.S3'
+Slack : 0.301
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'clock'
+Slack : -1.380
+TNS   : -29.380
+
+Type  : Fast Model Minimum Pulse Width 'FSM:Control_Unit|estado_atual.S3'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------
