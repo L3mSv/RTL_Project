@@ -1,9 +1,0 @@
-
-State Machine - |top_level|FSM:Control_Unit|estado_atual
-Name estado_atual.S5 estado_atual.S4 estado_atual.S3 estado_atual.S2 estado_atual.S1 estado_atual.S0 
-estado_atual.S0 0 0 0 0 0 0 
-estado_atual.S1 0 0 0 0 1 1 
-estado_atual.S2 0 0 0 1 0 1 
-estado_atual.S3 0 0 1 0 0 1 
-estado_atual.S4 0 1 0 0 0 1 
-estado_atual.S5 1 0 0 0 0 1 

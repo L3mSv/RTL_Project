@@ -9,6 +9,7 @@ Our project settings, such as the pins on the board, are in the file **FLF.qpf**
 
 ## Programmers
 - [Lucas Lemes](https://github.com/L3mSv) 
+- [Felipe H. Larangeira](https://github.com/FelipeHoffnLarangeira) 
 
 ## ***Datapath***
 
